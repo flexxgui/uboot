@@ -1,0 +1,15 @@
+if TARGET_MX23_HUK_FLEXXGUI
+
+config SYS_BOARD
+	default "mx23_huk_flexxgui"
+
+config SYS_VENDOR
+	default "hoffmannkrippner"
+
+config SYS_SOC
+	default "mxs"
+
+config SYS_CONFIG_NAME
+	default "mx23_huk_flexxgui"
+
+endif

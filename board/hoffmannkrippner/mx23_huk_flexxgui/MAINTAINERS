@@ -1,0 +1,8 @@
+MX23_OLINUXINO BOARD
+M:	Marek Vasut <marek.vasut@gmail.com>
+S:	Maintained
+F:	board/hoffmannkrippner/mx23_huk_flexxgui/
+F:	include/configs/mx23_huk_flexxgui.h
+F:	configs/mx23_huk_flexxgui_defconfig
+
+# mofidfiyed by n.reibel@tastatur.de
